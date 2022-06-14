@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lydiaawan
-- 👀 I’m interested in computer science, education research, music learning, and self-regulation.
+- 👀 My areas of interest include computer science, education research, music learning, and self-regulation.
 - 🌱 I’m currently learning data science and machine learning.
 - 📫 How to reach me: www.linkedin.com/in/lydia-a-wan
 
